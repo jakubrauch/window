@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "summary": "Get the dimensions of the window / screen size.",
+    "summary": "Get the dimensions and scroll position of the window.",
     "repository": "http://github.com/elm-lang/window.git",
     "license": "BSD3",
     "source-directories": [
